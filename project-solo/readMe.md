@@ -1,7 +1,7 @@
 # Tutorial: CPU Temperature Logger and Web Display
 **Author:** Sirin Roomkham
-**Date:** October 2, 2024  
-**Version:** v1.0
+**Date:** October 21, 2024  
+**Version:** v1.1
 
 ---
 
@@ -22,7 +22,7 @@ git clone https://github.com/sirinroomkham/ENG103
 ```
 
 After cloning, navigate into the project directory:
-`cd project-solo`
+`cd ENG103/project-solo/`
 
 ## Setup Instructions
 
